@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="slingpostservlet.ui.config" />
+        <module name="slingpostservlet.ui.tests" />
+        <module name="slingpostservlet.ui.content" />
+        <module name="slingpostservlet.it.tests" />
+        <module name="slingpostservlet.ui.apps" />
+        <module name="slingpostservlet.all" />
+        <module name="slingpostservlet.ui.apps.structure" />
+        <module name="slingpostservlet.core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="slingpostservlet" target="1.8" />
+      <module name="slingpostservlet.all" target="1.8" />
+      <module name="slingpostservlet.core" target="1.8" />
+      <module name="slingpostservlet.dispatcher.ams" target="1.8" />
+      <module name="slingpostservlet.it.tests" target="1.8" />
+      <module name="slingpostservlet.ui.apps" target="1.8" />
+      <module name="slingpostservlet.ui.apps.structure" target="1.8" />
+      <module name="slingpostservlet.ui.config" target="1.8" />
+      <module name="slingpostservlet.ui.content" target="1.8" />
+      <module name="slingpostservlet.ui.frontend" target="1.8" />
+      <module name="slingpostservlet.ui.tests" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

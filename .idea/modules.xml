@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SlingPostServlet.iml" filepath="$PROJECT_DIR$/.idea/SlingPostServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slingpostservlet/slingpostservlet.iml" filepath="$PROJECT_DIR$/slingpostservlet/slingpostservlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slingpostservlet/all/slingpostservlet.all.iml" filepath="$PROJECT_DIR$/slingpostservlet/all/slingpostservlet.all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slingpostservlet/core/slingpostservlet.core.iml" filepath="$PROJECT_DIR$/slingpostservlet/core/slingpostservlet.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slingpostservlet/dispatcher/slingpostservlet.dispatcher.ams.iml" filepath="$PROJECT_DIR$/slingpostservlet/dispatcher/slingpostservlet.dispatcher.ams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slingpostservlet/it.tests/slingpostservlet.it.tests.iml" filepath="$PROJECT_DIR$/slingpostservlet/it.tests/slingpostservlet.it.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slingpostservlet/ui.apps/slingpostservlet.ui.apps.iml" filepath="$PROJECT_DIR$/slingpostservlet/ui.apps/slingpostservlet.ui.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slingpostservlet/ui.apps.structure/slingpostservlet.ui.apps.structure.iml" filepath="$PROJECT_DIR$/slingpostservlet/ui.apps.structure/slingpostservlet.ui.apps.structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slingpostservlet/ui.config/slingpostservlet.ui.config.iml" filepath="$PROJECT_DIR$/slingpostservlet/ui.config/slingpostservlet.ui.config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slingpostservlet/ui.content/slingpostservlet.ui.content.iml" filepath="$PROJECT_DIR$/slingpostservlet/ui.content/slingpostservlet.ui.content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slingpostservlet/ui.frontend/slingpostservlet.ui.frontend.iml" filepath="$PROJECT_DIR$/slingpostservlet/ui.frontend/slingpostservlet.ui.frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slingpostservlet/ui.tests/slingpostservlet.ui.tests.iml" filepath="$PROJECT_DIR$/slingpostservlet/ui.tests/slingpostservlet.ui.tests.iml" />
+    </modules>
+  </component>
+</project>
