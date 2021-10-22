@@ -2,6 +2,7 @@ package com.slingpostservlet.core.servlets;
 
 import org.apache.sling.api.SlingHttpServletRequest;
 import org.apache.sling.api.SlingHttpServletResponse;
+import org.apache.sling.api.servlets.HttpConstants;
 import org.apache.sling.api.servlets.SlingAllMethodsServlet;
 import org.apache.sling.api.servlets.SlingSafeMethodsServlet;
 import org.osgi.service.component.annotations.Component;
@@ -12,7 +13,8 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 @Component(service = Servlet.class, property = {
-        "sling.servlet.paths=" + "/bin/coffeeServlet"
+        "sling.servlet.paths=" + "/bin/acoffeeServlet",
+        "sling.servlet.methods=" + HttpConstants.METHOD_POST
 })
 
 public class MyCoffeeServlet extends SlingAllMethodsServlet {
@@ -22,6 +24,8 @@ public class MyCoffeeServlet extends SlingAllMethodsServlet {
         out.write("Your order is pending...");
     }
 }
+
+
 
 
 
